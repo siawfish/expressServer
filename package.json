@@ -1,0 +1,13 @@
+{
+  "name": "express_request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "express",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
