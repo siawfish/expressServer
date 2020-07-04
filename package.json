@@ -2,8 +2,11 @@
   "name": "express_request",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "express",
+  "author": "siawfish",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
